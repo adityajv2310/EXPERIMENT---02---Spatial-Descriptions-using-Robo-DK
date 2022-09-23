@@ -1,11 +1,11 @@
-# EXPERIMENT-02-Spatial-Descriptions-using-Robo-DK
-## AIM
+# EXPERIMENT-01-Spatial-Descriptions-using-Robo-DK
+## AIM:
 To Simulate the Robot DK software for spatial descriptions
 
-## System Requirement
+## System Requirement:
 Windows 7 / 10, 8GB Ram, 2GB Graphics Card, 1024x768 pixel resolution display, RoboDK
 
-## Procedure
+## Procedure:
 Select File➔ Open.
 
 ![image](https://user-images.githubusercontent.com/113594316/190379141-f3c33120-246f-4bf2-9ff1-9788867b9e78.png)
@@ -30,12 +30,14 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 
 3. Select Target 1
 
-4. Right Click and pick teach current position
+4. Right Click and pick each current position
 
 Similaly fix target in the given position 
 
-## Output
+## Output:
 
-## Results
+<img width="956" alt="Exp1 dk 1" src="https://user-images.githubusercontent.com/75235386/191893948-bc7caf7b-b70e-430b-8994-72b4f3336673.png">
+
+## Result:
 
 Thus, the spatial-Descriptions of the given ta is given target simulated Using Robo DK. 
